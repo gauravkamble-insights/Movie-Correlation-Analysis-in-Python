@@ -1,4 +1,4 @@
-# Movie-Correlation-Analysis-in-Python
+# Movie Correlation Analysis in Python
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
