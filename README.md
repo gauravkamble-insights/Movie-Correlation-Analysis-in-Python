@@ -13,8 +13,17 @@
 This project explores a movie industry dataset to identify which factors—such as budget, votes, or production company—have the strongest correlation with a film's gross revenue. The analysis is conducted in Python, utilizing libraries like Pandas, Seaborn, and Matplotlib to clean, visualize, and analyze the data.
 
 
-## [Reports]()
+## [Reports](https://github.com/gauravkamble-insights/Movie-Correlation-Analysis-in-Python/blob/main/report/Movie%20Correlation%20Analysis%20in%20Python.pdf)  
+
+
+
 ### Preview
+*Initial visualization of Budget vs. Gross Earnings using Matplotlib*  
+<img width="1002" height="703" alt="Scatter plot budget vs gross earning" src="https://github.com/gauravkamble-insights/Movie-Correlation-Analysis-in-Python/blob/main/assets/Scatter%20plot%20budget%20vs%20gross%20earning.png" />
+  
+*Regression plot showcasing the positive correlation between Budget and Gross*
+<img width="1002" height="695" alt="seaborn" src="https://github.com/gauravkamble-insights/Movie-Correlation-Analysis-in-Python/blob/main/assets/seaborn.png" />
+
 
 
 ## Project Structure
@@ -51,6 +60,9 @@ The [dataset](https://www.kaggle.com/datasets/danielgrijalvas/movies), sourced f
 **Top Correlations:** The two variables with the highest correlation to gross revenue are Budget (0.75) and Votes (0.63).
 **Company Impact:** Contrary to initial predictions, the production company has a very low correlation with total revenue.
 **Strong Pairs:** Several features, such as "Year" and "Corrected Year," show a perfect 1.0 correlation, while other notable relationships exist between votes and budget.
+
+*Summary of the highest correlation pairs found in the dataset*
+<img width="917" height="703" alt="correlation matrix" src="https://github.com/gauravkamble-insights/Movie-Correlation-Analysis-in-Python/blob/main/assets/correlation%20matrix.png" />  
 
 ## Author
 - <b>©2026 Gaurav Kamble.  
