@@ -10,7 +10,7 @@
 
 
 ## Overview
-This project explores a movie industry dataset to identify which factors—such as budget, votes, or production company—have the strongest correlation with a film's gross revenue. The analysis is conducted in Python, utilizing libraries like Pandas, Seaborn, and Matplotlib to clean, visualize, and analyze the data.
+This project explores a movie industry dataset to identify which factors like budget, votes, or production company have the strongest correlation with the gross revenue of a film. The analysis is conducted in Python using libraries such as Pandas, Seaborn, and Matplotlib to clean, visualize, and analyze the data.
 
 
 ## [Reports](https://github.com/gauravkamble-insights/Movie-Correlation-Analysis-in-Python/blob/main/report/Movie%20Correlation%20Analysis%20in%20Python.pdf)  
