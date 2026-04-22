@@ -3,10 +3,10 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/matplotlib-%996666.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-%2345818e.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Seaborn](https://img.shields.io/badge/seaborn-%531414.svg?style=for-the-badge&logo=seaborn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/seaborn-%23531414.svg?style=for-the-badge&logo=seaborn&logoColor=white)
 
 
 ## Overview
